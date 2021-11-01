@@ -13,7 +13,9 @@ Si tu as cloné fait
 cd todo
 ```
 ### Installation des dependances
-```npm install ```
+```
+npm install 
+```
 
 ### Executer le programme 
 ```
