@@ -23,7 +23,8 @@ npm run serve
 ### Nouvelle tâche pour toi  1
 ```
 D'abord tu finis l'exercice et Tu ajoutes la date d'ajout de la tache automatiquement 
-tu ajoutes la fonctionnalité d'archivage ( elle va consister a verifier si la date de la tache est passée si elle est passée automatiquement la tâche s'archive 
+tu ajoutes la fonctionnalité d'archivage ( elle va consister a verifier si la date de 
+la tache est passée si elle est passée automatiquement la tâche s'archive 
 pour être clair si le jour passe la tâche s'archive) <br />
 
 finis ça et je te donne une autre tache
