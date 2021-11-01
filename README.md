@@ -4,7 +4,7 @@
 Télécharge le code comme tu as l'habitude de le faire sur github ou fait  un clone si tu as git installer sur ton pc
 
 ```
-git clone 
+git clone https://github.com/lesage20/todo.git
 ```
 Si tu as téléchagé en ligne (Zip) rends toi dans le dossier ou tu as téléchargé décompresse rend toi dans le dossier ou tu as decompressé
 ### Ou 
